@@ -1,1 +1,1 @@
-import{a}from"/cookbook-template/build/_shared/chunk-2HQFXNVZ.js";import"/cookbook-template/build/_shared/chunk-5XNNEDOD.js";import"/cookbook-template/build/_shared/chunk-J3PKFMLQ.js";import"/cookbook-template/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/spectral-analysis-cookbook/build/_shared/chunk-2HQFXNVZ.js";import"/spectral-analysis-cookbook/build/_shared/chunk-5XNNEDOD.js";import"/spectral-analysis-cookbook/build/_shared/chunk-J3PKFMLQ.js";import"/spectral-analysis-cookbook/build/_shared/chunk-OZE3FFNP.js";export default a();

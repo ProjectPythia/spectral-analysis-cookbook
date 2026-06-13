@@ -1,1 +1,1 @@
-import{a}from"/cookbook-template/build/_shared/chunk-IHYNHUOG.js";import"/cookbook-template/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/spectral-analysis-cookbook/build/_shared/chunk-IHYNHUOG.js";import"/spectral-analysis-cookbook/build/_shared/chunk-OZE3FFNP.js";export default a();
