@@ -8,12 +8,12 @@
     <loc>http://localhost:3000/notebooks/how-to-cite</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/notebooks/notebook-template</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/notebooks/gibbs-phenomenon</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/notebooks/d-eofs</loc>
+    <loc>http://localhost:3000/notebooks/eofs-2d</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/freq-decomp</loc>
   </url>
 </urlset>
