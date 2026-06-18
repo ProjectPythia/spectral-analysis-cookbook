@@ -35,6 +35,9 @@
     <loc>http://localhost:3000/notebooks/extended-eofs</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/notebooks/ml-application</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/notebooks/multivariate-eofs-extract-mjo</loc>
   </url>
   <url>
