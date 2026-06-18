@@ -14,6 +14,9 @@
     <loc>http://localhost:3000/notebooks/harmonic-anomalies</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/notebooks/anomaly-time-series</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/notebooks/gibbs-phenomenon</loc>
   </url>
   <url>
