@@ -11,6 +11,12 @@
     <loc>http://localhost:3000/notebooks/harmonic-analysis</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/notebooks/harmonic-anomalies</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/anomaly-time-series</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/notebooks/gibbs-phenomenon</loc>
   </url>
   <url>
@@ -27,5 +33,8 @@
   </url>
   <url>
     <loc>http://localhost:3000/notebooks/extended-eofs</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/application-to-mjo</loc>
   </url>
 </urlset>
