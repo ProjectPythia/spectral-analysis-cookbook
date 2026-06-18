@@ -18,8 +18,8 @@ Juan Diego Mantilla, Sreedevi Puthiyamadam Vasu, Robert R. Ford, Suyue Li, Alex 
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/spectral-analysis-coobook/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/spectral-analysis-coobook" />
+<a href="https://github.com/ProjectPythia/spectral-analysis-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/spectral-analysis-cookbook" />
 </a>
 
 ## Structure
