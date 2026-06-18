@@ -1,10 +1,10 @@
 # Spectral Analysis for Geophysical Data Cookbook
 
+<img src="thumbnails/icon.png" alt="thumbnail" width="300"/>
 
-
-[nightly-build](https://github.com/ProjectPythia/spectral-analysis-cookbook/actions/workflows/nightly-build.yaml)
-[Binder](https://binder.projectpythia.org/v2/gh/ProjectPythia/spectral-analysis-cookbook/main?labpath=notebooks)
-[DOI](https://zenodo.org/badge/latestdoi/475509405)
+[![nightly-build](https://github.com/ProjectPythia/spectral-analysis-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/spectral-analysis-cookbook/actions/workflows/nightly-build.yaml)
+[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/spectral-analysis-cookbook/main?labpath=notebooks)
+[![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
 This Project Pythia Cookbook covers **spectral analysis methods for geophysical data in Python**, with a focus on Fourier and harmonic analysis, spectral filtering, and Empirical Orthogonal Function (EOF) analysis. The notebooks build foundational skills for analyzing climate time series and gridded datasets, then apply these techniques to real atmospheric observations. Applications include **frequency decomposition** of wind fields, **time-extended EOF (EEOF)** analysis of outgoing longwave radiation (OLR), and **regression of atmospheric fields onto the Real-time Multivariate MJO (RMM) indices** to diagnose the large-scale circulation patterns associated with the Madden–Julian Oscillation (MJO).
 
