@@ -20,6 +20,9 @@
     <loc>http://localhost:3000/notebooks/gibbs-phenomenon</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/notebooks/spectral-analysis</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/notebooks/eofs-2d</loc>
   </url>
   <url>
@@ -33,6 +36,9 @@
   </url>
   <url>
     <loc>http://localhost:3000/notebooks/ml-application</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/multivariate-eofs-extract-mjo</loc>
   </url>
   <url>
     <loc>http://localhost:3000/notebooks/application-to-mjo</loc>
