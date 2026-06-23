@@ -43,20 +43,22 @@ project:
         - file: notebooks/how-to-cite.md
     - title: Data Analysis Methods
       children:
-        - file: notebooks/Harmonic_Analysis.ipynb
-        - file: notebooks/harmonic_anomalies.ipynb
-        - file: notebooks/Anomaly_time_series.ipynb
-        - file: notebooks/gibbs-phenomenon.ipynb
-        - file: notebooks/spectral_analysis.ipynb
-        - file: notebooks/eofs-2d.ipynb
-        - file: notebooks/eofs-3d.ipynb  
+        - file: notebooks/01.harmonic_analysis.ipynb
+        - file: notebooks/02.harmonic_anomalies.ipynb
+        - file: notebooks/03.discrete_fourier_transform.ipynb
+        - file: notebooks/04.fourier_spectral_analysis_tutorial.ipynb
+        - file: notebooks/05.gibbs-phenomenon.ipynb
+        - file: notebooks/06.eofs-2d.ipynb
+        - file: notebooks/07.eofs-3d.ipynb
     - title: Data Analysis Applications
       children:
-        - file: notebooks/freq-decomp.ipynb
-        - file: notebooks/extended-eofs.ipynb
-        - file: notebooks/ml-application.ipynb
-        - file: notebooks/Multivariate_EOFs_extract_MJO.ipynb
-        - file: notebooks/Application_to_MJO.ipynb
+        - file: notebooks/08.anomaly_time_series.ipynb
+        - file: notebooks/09.freq-decomp.ipynb
+        - file: notebooks/10.extended-eofs.ipynb
+        - file: notebooks/11.spectral_analysis.ipynb
+        - file: notebooks/12.multivariate_eofs_extract_mjo.ipynb
+        - file: notebooks/13.regressing_fields_to_mjo_indices.ipynb
+        - file: notebooks/14.ml-application.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org
