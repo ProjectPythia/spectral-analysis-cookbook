@@ -14,13 +14,13 @@
     <loc>http://localhost:3000/notebooks/harmonic-anomalies</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/notebooks/anomaly-time-series</loc>
+    <loc>http://localhost:3000/notebooks/discrete-fourier-transform</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/fourier-spectral-analysis-tutorial</loc>
   </url>
   <url>
     <loc>http://localhost:3000/notebooks/gibbs-phenomenon</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/notebooks/spectral-analysis</loc>
   </url>
   <url>
     <loc>http://localhost:3000/notebooks/eofs-2d</loc>
@@ -35,12 +35,12 @@
     <loc>http://localhost:3000/notebooks/extended-eofs</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/notebooks/spectral-analysis</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/regressing-fields-to-mjo-indices</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/notebooks/ml-application</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/notebooks/multivariate-eofs-extract-mjo</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/notebooks/application-to-mjo</loc>
   </url>
 </urlset>
