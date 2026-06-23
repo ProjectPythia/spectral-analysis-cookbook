@@ -38,10 +38,7 @@
     <loc>http://localhost:3000/notebooks/spectral-analysis</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/notebooks/multivariate-eofs-extract-mjo</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/notebooks/application-to-mjo</loc>
+    <loc>http://localhost:3000/notebooks/regressing-fields-to-mjo-indices</loc>
   </url>
   <url>
     <loc>http://localhost:3000/notebooks/ml-application</loc>
