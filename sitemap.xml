@@ -29,6 +29,9 @@
     <loc>http://localhost:3000/notebooks/eofs-3d</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/notebooks/anomalies-time-series</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/notebooks/freq-decomp</loc>
   </url>
   <url>
